@@ -22,7 +22,8 @@
 
 Python (pandas, numpy, seaborn, matplotlib) – попередня обробка, агрегація, базові візуалізації.
 
-SQL/BigQuery – для складних запитів і агрегацій.
 
-Tableau/Power BI – для інтерактивного дашборду з основними метриками.
+Tableau/Power BI – для інтерактивного дашборду з основними  метриками.
+![E-commerce Performance Dashboard](https://github.com/user-attachments/assets/1055d4f0-f58d-4a78-84f7-0ede3f497b22)
+
 https://public.tableau.com/app/profile/.28674000/viz/E-commercePerformanceDashboard_17387846466250/E-commercePerformanceDashboard
